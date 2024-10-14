@@ -1,0 +1,30 @@
+
+           
+              body{
+                background-color: rgb(165, 42, 138);
+                color: white;  
+            }
+            h1{
+                color: aqua;
+                font-style: italic;
+                text-align:center;
+            }
+            .secondDiv{
+                background-color: blue;
+                align-items: center;
+                text-align: center;
+
+            }
+            button{
+                margin: 5px;
+                padding: 5px 10px;
+                cursor: pointer;
+                border:20px dotted ;
+                
+            }
+            button:hover{
+                background-color: rgba(0, 0, 0, 0.995);
+                color: rgb(111, 0, 255);
+            }
+        
+  
